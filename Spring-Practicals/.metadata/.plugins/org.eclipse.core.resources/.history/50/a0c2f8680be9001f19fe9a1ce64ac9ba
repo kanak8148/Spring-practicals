@@ -1,5 +1,0 @@
-package com.rays.lifecycle;
-
-public class MyBeanAnnotation {
-
-}
